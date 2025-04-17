@@ -1,7 +1,7 @@
-# Problem 0021: Merge Two Sorted Lists
+# Problem 0026: Remove Duplicates from Sorted Array
 
-🔗 [LeetCode Link](https://leetcode.com/problems/merge-two-sorted-lists/)
+🔗 [LeetCode Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 ## Summary
 
-Merge two sorted linked lists into one sorted linked list and return its head.
+Remove duplicates in-place from a sorted array and return the number of unique elements.

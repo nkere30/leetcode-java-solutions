@@ -6,7 +6,22 @@ package leetcode.easy.problem_0021;
  * Merge two sorted linked lists and return the head of the merged list.
  */
 public class Solution {
-    public static void main(String[] args) {
-        System.out.println("Alio");
+    public static class ListNode {
+        public int val;
+        public ListNode next;
+
+        public ListNode(int val) {
+            this.val = val;
+        }
+
+        public ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
+        }
+    }
+
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        // your code here
+        return null;
     }
 }
